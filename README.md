@@ -1,2 +1,3 @@
-# Rep1
-git hub
+# Rep 1
+
+my first git hub rep
